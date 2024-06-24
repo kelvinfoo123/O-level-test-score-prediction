@@ -1,5 +1,2 @@
 # O-level-test-score-prediction
-### **1. Preprocessing**
-1. Null features and numerical features with negative values are processed and fixed as their values are incorrect
-2. Null features are replaced with the median values while numerical features take an abs() value
-3. Relabel data that has the same label meanings but are inconsistent (eg 'Yes' and 'yes')
+<img width="1014" alt="Screenshot 2024-06-24 at 11 12 00" src="https://github.com/kelvinfoo123/O-level-test-score-prediction/assets/112041340/3a0c206e-a683-45d8-a343-bc950a5e2c5b">
